@@ -1,0 +1,19 @@
+#cabecera {
+    background: url("../imagenes/portada.jpg");
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+header h1 {
+    color: white;
+    text-shadow: black;
+}
+
+header hr {
+    border: 5px solid white;
+    border-radius: 5px;
+
+}

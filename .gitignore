@@ -1,0 +1,5 @@
+# ignored files with the following extentions
+*.txt
+*.pdf
+# ignored folders
+/datos/* 
